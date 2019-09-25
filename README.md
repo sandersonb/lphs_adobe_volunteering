@@ -1,2 +1,2 @@
-# lphs_adobe_volunteering
-Lone Peak Highschool Adobe Volunteering
+# lphs_volunteer_project
+Lone Peak High School Volunteer Project
